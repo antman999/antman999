@@ -52,5 +52,5 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="center" alt="Anthony's Github Stats" src="https://github-readme-stats.antman999.vercel.app/api?username=antman999&show_icons=true&hide_border=true" />
+  <img align="center" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=antman999&show_icons=true&hide_border=true" />
 
