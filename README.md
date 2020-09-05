@@ -49,9 +49,8 @@
 - [Using Bootstrap 4 In Rails 6](https://dev.to/antman/using-bootstrap-4-in-rails-6-39hk)
 - [Relationship Models in Ruby](https://dev.to/antman/relationship-models-in-ruby-24pd)
 <!-- BLOG-POST-LIST:END -->
-<details>
+
   <summary>:zap: Github Stats</summary>
 
-  <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="center" alt="Anthony's Github Stats" src="https://github-readme-stats.antman999.vercel.app/api?username=antman999&show_icons=true&hide_border=true" />
 
-</details>
