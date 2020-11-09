@@ -5,8 +5,7 @@
 
 ## I'm a Developer, Student, and Knicks fan!
 
--  I’m currently working on algorithms and data structures!
--  I’m currently learning Jest
+-  I’m currently learning TDD!
 -  I’m open to new development opportunities
 -  2020 Goals: Make a lasting change to our environment
 -  Fun fact: My dog and I have the same birthdays!
