@@ -1,22 +1,20 @@
-### Hi there, I'm Anthony 👋 [website] 
-
-[![Website](https://img.shields.io/website?label=anthonymendoza.app&style=for-the-badge&url=https%3A%2F%2Fanthonymendoza.app/)](https://anthonymendoza.app/)
 
 [website]: https://anthonymendoza.app/
 [linkedin]: https://www.linkedin.com/in/anthony-mendoza9/
 [email]: anthonymendoza9922@gmail.com
 [blog]: https://dev.to/antman
+[twitter]: https://twitter.com/antman_199
 
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][linkedin]
+[<img align="left" alt="Twitter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 
-### 📕 Latest Blog Posts
+#### Some of my blog post! 
 
 <!-- BLOG-POST-LIST:START -->
 - [Leetcode #98 (validate binary search tree)](https://dev.to/antman/leetcode-98-validate-binary-search-tree-51df)
